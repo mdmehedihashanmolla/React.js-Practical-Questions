@@ -1,0 +1,1 @@
+Implement a counter component with useState to increment, decrement, and reset the count.
