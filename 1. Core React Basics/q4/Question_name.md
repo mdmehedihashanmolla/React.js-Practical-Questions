@@ -1,0 +1,1 @@
+Write a component that fetches and displays data from an API using useEffect.
